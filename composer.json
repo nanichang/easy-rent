@@ -1,0 +1,12 @@
+{
+    "name": "nani/ams",
+    "description": "easy rent management software",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nani Paul",
+            "email": "nanipaul68@gmail.com"
+        }
+    ],
+    "require": {}
+}
