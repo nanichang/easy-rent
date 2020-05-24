@@ -1,4 +1,4 @@
-<?php include(DIR_APPLICATION."config.php"); ?>
+<?php include("config.php"); ?>
 
 <header class="header">
   <div class="topbar">
@@ -54,7 +54,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/contact">Contact</a>                
+            <a class="nav-link" href="/contact.php">Contact</a>                
           </li>
         </ul>
       </div>

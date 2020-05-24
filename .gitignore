@@ -1,1 +1,9 @@
+#VSCode file history
+.history
+
+#Macos 
+.DS_Store
+
+#config file
+config.php
 /vendor/
