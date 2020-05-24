@@ -9,7 +9,7 @@
   unset($_SESSION['domain']);
   include(DIR_APPLICATION."../config.php");
 
- ?>
+?>
 
 <link rel="shortcut icon" href="<?php echo WEB_URL; ?>assets/frontend/images/favicon.ico" />
 

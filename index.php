@@ -3,11 +3,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="RentsNG - Real Estate HTML5 Template" />
+    <meta name="keywords" content="RentsNG" />
+    <meta name="description" content="Rents.NG" />
     <meta name="author" content="potenzaglobalsolutions.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Real Villa - Real Estate HTML5 Template</title>
+    <title>Rents.NG - Home</title>
 
     <!-- Favicon -->
    <link rel="shortcut icon" href="assets/frontend/images/favicon.ico" />
@@ -45,27 +45,27 @@ banner -->
         <div class="bg-overlay-black-50 p-4">
           <div class="position-relative">
             <ul class="nav nav-tabs nav-tabs-02 mb-3 justify-content-center" id="pills-tab" role="tablist">
-              <li class="nav-item mr-1">
+              <!-- <li class="nav-item mr-1">
                 <a class="nav-link active" id="buy-tab" data-toggle="pill" href="#buy" role="tab" aria-controls="buy" aria-selected="true">Buy</a>
-              </li>
+              </li> -->
               <li class="nav-item mr-1">
-                <a class="nav-link" id="rent-tab" data-toggle="pill" href="#rent" role="tab" aria-controls="rent" aria-selected="false">Rent</a>
+                <a class="nav-link active" id="rent-tab" data-toggle="pill" href="#rent" role="tab" aria-controls="rent" aria-selected="false">Properties</a>
               </li>
               <li class="nav-item mr-1">
                 <a class="nav-link" id="sold-tab" data-toggle="pill" href="#sold" role="tab" aria-controls="sold" aria-selected="false">Agents</a>
               </li>
             </ul>
             <div class="tab-content" id="pills-tabContent">
-              <div class="tab-pane fade show active" id="buy" role="tabpanel" aria-labelledby="buy-tab">
+              <!-- <div class="tab-pane fade show active" id="buy" role="tabpanel" aria-labelledby="buy-tab">
                 <div class="search">
                   <i class="fas fa-search"></i>
                   <input type="text" class="form-control" placeholder="Search for Homes by Address, City, Zip Code or MLS#....">
                 </div>
-              </div>
-              <div class="tab-pane fade" id="rent" role="tabpanel" aria-labelledby="rent-tab">
+              </div> -->
+              <div class="tab-pane fade show active" id="rent" role="tabpanel" aria-labelledby="rent-tab">
                 <div class="search">
                   <i class="fas fa-search"></i>
-                  <input type="text" class="form-control" placeholder="Search for Homes by Address, City, Zip Code or MLS#....">
+                  <input type="text" class="form-control" placeholder="Search for Homes by Address, City...">
                 </div>
               </div>
               <div class="tab-pane fade" id="sold"  role="tabpanel" aria-labelledby="sold-tab">
@@ -125,7 +125,7 @@ Featured properties-->
           </div>
           <div class="property-details">
             <div class="property-details-inner">
-              <h5 class="property-title"><a href="property-detail-style-01.html">Ample apartment at last floor </a></h5>
+              <h5 class="property-title"><a href="">Ample apartment at last floor </a></h5>
               <span class="property-address"><i class="fas fa-map-marker-alt fa-xs"></i>Virginia drive temple hills</span>
               <span class="property-agent-date"><i class="far fa-clock fa-md"></i>10 days ago</span>
               <div class="property-price">$150.00<span> / month</span> </div>
@@ -136,7 +136,7 @@ Featured properties-->
               </ul>
             </div>
             <div class="property-btn">
-              <a class="property-link" href="property-detail-style-01.html">See Details</a>
+              <a class="property-link" href="">See Details</a>
               <ul class="property-listing-actions list-unstyled mb-0">
                 <li class="property-compare"><a data-toggle="tooltip" data-placement="top" title="Compare" href="#"><i class="fas fa-exchange-alt"></i></a></li>
                 <li class="property-favourites"><a data-toggle="tooltip" data-placement="top" title="Favourite" href="#"><i class="far fa-heart"></i></a></li>
@@ -640,22 +640,6 @@ News, tips & articles -->
 <!--=================================
 News, tips & articles -->
 
-<!--=================================
-call to action -->
-<section class="py-5 bg-primary">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-9">
-        <h2 class="text-white mb-0">Looking to sell or rent your property?</h2>
-      </div>
-      <div class="col-lg-3 text-lg-right mt-3 mt-lg-0">
-        <a class="btn btn-white" href="#">Get a free quote</a>
-      </div>
-    </div>
-  </div>
-</section>
-<!--=================================
-call to action -->
 
 <!--=================================
 footer-->
@@ -664,12 +648,12 @@ footer-->
     <div class="row">
       <div class="col-lg-3 col-md-6">
         <div class="footer-contact-info">
-          <h5 class="text-primary mb-4">About real villa</h5>
-          <p class="text-white mb-4">Real Villa helped thousands of clients to find the right property for their needs.</p>
+          <h5 class="text-primary mb-4">About Rents.NG</h5>
+          <p class="text-white mb-4">Rents.NG helped thousands of clients to find the right property for their needs.</p>
           <ul class="list-unstyled mb-0">
             <li> <b> <i class="fas fa-map-marker-alt"></i></b><span>214 West Arnold St. New York, NY 10002</span> </li>
             <li> <b><i class="fas fa-microphone-alt"></i></b><span>(123) 345-6789</span> </li>
-            <li> <b><i class="fas fa-headset"></i></b><span>support@realvilla.demo</span> </li>
+            <li> <b><i class="fas fa-headset"></i></b><span>support@rents.ng</span> </li>
           </ul>
         </div>
       </div>
@@ -677,19 +661,12 @@ footer-->
         <div class="footer-link">
           <h5 class="text-primary mb-4">Useful links</h5>
           <ul class="list-unstyled mb-0">
-            <li> <a href="#">Commercial </a> </li>
-            <li> <a href="#">House </a> </li>
-            <li> <a href="#">Office </a> </li>
-            <li> <a href="#">Residential </a> </li>
-            <li> <a href="#">Residential Tower </a> </li>
+            <li> <a href="/">Home </a> </li>
+            <li> <a href="./properties.php">Properties </a> </li>
+            <li> <a href="./agents.php">Agents </a> </li>
+            <li> <a href="./contact.php">Contact </a> </li>
           </ul>
-          <ul class="list-unstyled mb-0">
-            <li> <a href="#">Beverly Hills </a> </li>
-            <li> <a href="#">Los angeles </a> </li>
-            <li> <a href="#">Mission Viejo </a> </li>
-            <li> <a href="#">Newport  </a> </li>
-            <li> <a href="#">Beach Pasadena </a> </li>
-          </ul>
+          
         </div>
       </div>
       <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
@@ -743,7 +720,7 @@ footer-->
           <a id="back-to-top" class="back-to-top" href="#"><i class="fas fa-angle-double-up"></i> </a>
         </div>
         <div class="col-md-4 text-center text-md-right">
-          <p class="mb-0 text-white"> &copy;Copyright <span id="copyright"> <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span> <a href="#"> Real villa </a> All Rights Reserved </p>
+          <p class="mb-0 text-white"> &copy;Copyright <span id="copyright"> <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span> <a href="#"> Rents.NG </a> All Rights Reserved </p>
         </div>
       </div>
     </div>

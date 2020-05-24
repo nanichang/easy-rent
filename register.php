@@ -40,7 +40,7 @@ Breadcrumb -->
     <div class="row">
       <div class="col-12">
         <ol class="breadcrumb mb-0">
-          <li class="breadcrumb-item"><a href="index.html"> <i class="fas fa-home"></i> </a></li>
+          <li class="breadcrumb-item"><a href="/"> <i class="fas fa-home"></i> </a></li>
           <li class="breadcrumb-item"> <i class="fas fa-chevron-right"></i> <a href="#">Pages</a></li>
           <li class="breadcrumb-item active"> <i class="fas fa-chevron-right"></i> <span> Create an account </span></li>
         </ol>
@@ -132,23 +132,7 @@ Login -->
                 </ul>
               </div>
             </form>
-            <div class="login-social-media border pl-4 pr-4 pb-4 pt-0 rounded">
-              <div class="mb-4 d-block text-center"><b class="bg-white pl-2 pr-2 mt-3 d-block">Login or Sign in with</b></div>
-              <form class="row">
-                <div class="col-sm-6">
-                  <a class="btn facebook-bg social-bg-hover d-block mb-3" href="#"><span><i class="fab fa-facebook-f"></i>Login with Facebook</span></a>
-                </div>
-                <div class="col-sm-6">
-                  <a class="btn twitter-bg social-bg-hover d-block mb-3" href="#"><span><i class="fab fa-twitter"></i>Login with Twitter</span></a>
-                </div>
-                <div class="col-sm-6">
-                  <a class="btn google-bg social-bg-hover d-block mb-3 mb-sm-0" href="#"><span><i class="fab fa-google"></i>Login with Google</span></a>
-                </div>
-                <div class="col-sm-6">
-                  <a class="btn linkedin-bg social-bg-hover d-block" href="#"><span><i class="fab fa-linkedin-in"></i>Login with Linkedin</span></a>
-                </div>
-              </form>
-            </div>
+            
           </div>
           <div class="tab-pane fade" id="regular-user" role="tabpanel" aria-labelledby="regular-user-tab">
             <form class="form-row mt-4 mb-5 align-items-center">
@@ -177,23 +161,6 @@ Login -->
                 </ul>
               </div>
             </form>
-            <div class="login-social-media border pl-4 pr-4 pb-4 pt-0 rounded">
-              <div class="mb-4 d-block text-center"><b class="bg-white pl-2 pr-2 mt-3 d-block">Login or Sign in with</b></div>
-              <form class="row">
-                <div class="col-sm-6">
-                  <a class="btn facebook-bg social-bg-hover d-block mb-3" href="#"><span><i class="fab fa-facebook-f"></i>Login with Facebook</span></a>
-                </div>
-                <div class="col-sm-6">
-                  <a class="btn twitter-bg social-bg-hover d-block mb-3" href="#"><span><i class="fab fa-twitter"></i>Login with Twitter</span></a>
-                </div>
-                <div class="col-sm-6">
-                  <a class="btn google-bg social-bg-hover d-block mb-3 mb-sm-0" href="#"><span><i class="fab fa-google"></i>Login with Google</span></a>
-                </div>
-                <div class="col-sm-6">
-                  <a class="btn linkedin-bg social-bg-hover d-block" href="#"><span><i class="fab fa-linkedin-in"></i>Login with Linkedin</span></a>
-                </div>
-              </form>
-            </div>
           </div>
         </div>
       </div>
