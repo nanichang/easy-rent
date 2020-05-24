@@ -1,4 +1,4 @@
-<?php include(DIR_APPLICATION."config.php"); ?>
+<?php include("config.php"); ?>
 
 <header class="header">
   <div class="topbar">
